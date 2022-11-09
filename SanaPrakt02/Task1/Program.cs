@@ -2,6 +2,6 @@
 Console.WriteLine("Довільний текст, взагалі довільний");
 Console.WriteLine("Довільний текст, взагалі довільний");
 Console.WriteLine("Довільний текст, взагалі довільний");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("Вже інший текст, не взагалі, але інший");
+Console.WriteLine("Вже інший текст, не взагалі, але інший");
 Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
